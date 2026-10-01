@@ -1,6 +1,90 @@
 # MUSELIORA
 
-Hebrew editorial magazine about beauty, self and style.
+Hebrew editorial magazine about beauty, self and style, published by Tiger Brands Global.
+Noindex preview until its permanent domain is connected. Articles cite their sources; cosmetic suggestions are not medical advice.
 
+## Policies
 - https://harelos.github.io/museliora-magazine/editorial-policy/
 - https://harelos.github.io/museliora-magazine/privacy/
+
+## Categories
+- [טיפוח עור](https://harelos.github.io/museliora-magazine/categories/skincare/)
+- [איפור](https://harelos.github.io/museliora-magazine/categories/makeup/)
+- [שיער](https://harelos.github.io/museliora-magazine/categories/hair/)
+- [בריאות](https://harelos.github.io/museliora-magazine/categories/wellness/)
+- [סגנון חיים](https://harelos.github.io/museliora-magazine/categories/lifestyle/)
+- [נשים](https://harelos.github.io/museliora-magazine/categories/women/)
+- [קהילה](https://harelos.github.io/museliora-magazine/categories/community/)
+
+## Articles
+- [5 סיבות לחזור לקוקו מתוח, בלי למשוך שוונצים קדימה](https://harelos.github.io/museliora-magazine/articles/bunee-ponytail/): על הפס הבהיר בצדדים, הבוקר מול המראה ודרך קוסמטית פשוטה לטשטש אותו. מדריך BUNEE לבחירת גוון ולקוקו שאת רוצה.
+- [שגרת טיפוח פשוטה שלא הופכת לעוד משימה](https://harelos.github.io/museliora-magazine/articles/simple-skincare-routine-without-overload/): מדריך מעשי לבניית שגרת טיפוח יומיומית קצרה, לסידור המוצרים ולבדיקה מה באמת נוח לך להשתמש בו.
+- [מרקמים בשכבות: איך לסדר מוצרים בלי תחושת עומס](https://harelos.github.io/museliora-magazine/articles/skincare-textures-and-layering/): מדריך שימושי לבחירת מרקמים ולסידור שכבות טיפוח לפי תווית, נוחות וסדר פשוט.
+- [לקרוא את תווית מסנן הקרינה בלי ללכת לאיבוד](https://harelos.github.io/museliora-magazine/articles/sunscreen-label-literacy/): מדריך קריא להבנת מונחים נפוצים על אריזות מסנני קרינה, בלי לבחור עבורך מוצר או לקבוע הנחיות רפואיות.
+- [להסיר איפור בעדינות, גם כשחוזרות מאוחר](https://harelos.github.io/museliora-magazine/articles/remove-makeup-gently/): צעדים פרקטיים להסרת איפור מהפנים ומהעיניים, עם התאמה להוראות המוצרים ולנוחות שלך.
+- [מוצר חדש? קוראות קודם את הוראות הבדיקה](https://harelos.github.io/museliora-magazine/articles/cosmetics-patch-test-instructions/): מדריך קריאה להוראות יצרן לפני ניסיון של מוצר קוסמטי חדש, בלי להציג בדיקת בית כאישור רפואי.
+- [מדף טיפוח בתקציב: קונות לפי שימוש ולא לפי הבטחה](https://harelos.github.io/museliora-magazine/articles/beauty-shelf-on-a-budget/): תכנון קניות טיפוח פשוט שעוזר למקד את התקציב במוצרים שאת באמת תשתמשי בהם.
+- [בוקר וערב: שתי שגרות, שתי מטרות שונות](https://harelos.github.io/museliora-magazine/articles/morning-and-evening-routine-contrast/): חלוקה מעשית בין שגרת בוקר וערב, עם פעולות שתלויות בהרגלים ובהוראות המוצרים שלך.
+- [מעבר עונה בלי להחליף את כל המדף](https://harelos.github.io/museliora-magazine/articles/seasonal-cosmetics-shelf-edit/): דרך מסודרת להתאים את ארון הקוסמטיקה לשינויי מזג אוויר והרגלים, בלי הבטחות או אבחנות עור.
+- [כשהפיד מציע עוד טרנד: איך לבחור מה באמת מתאים לך](https://harelos.github.io/museliora-magazine/articles/beauty-trend-overload-edit/): מסגרת עריכה אישית לקבלת החלטות מול טרנדים במוצרי טיפוח, בלי לייחס פופולריות ליעילות.
+- [ערכת טיפוח לנסיעה: לארוז לפי הימים שלך](https://harelos.github.io/museliora-magazine/articles/beauty-travel-kit-light-and-clear/): צ׳ק ליסט מעשי לאריזת מוצרי טיפוח ויופי לנסיעה, עם תשומת לב לאחסון ולהוראות שימוש.
+- [בסיס שנראה כמו העור שלך, רק קצת יותר אחיד](https://harelos.github.io/museliora-magazine/articles/skin-like-base-by-layers/): מדריך איפור פרקטי לבניית שכבת בסיס קלה, עם בדיקת גוון באור יום ותיקון נקודתי במקום כיסוי כבד.
+- [סומק במיקום שאת בוחרת, לא לפי כלל אחד](https://harelos.github.io/museliora-magazine/articles/blush-placement-by-mood/): מדריך מעשי להצבת סומק, להתאמת כלי המריחה ולבניית צבע בהדרגה בלי נוסחה אחת לכולן.
+- [איפור עיניים פשוט בחמש תנועות קטנות](https://harelos.github.io/museliora-magazine/articles/easy-eye-makeup-in-five-moves/): מדריך נגיש ליצירת מראה עיניים יומיומי עם צללית אחת או שתיים וכלי נקי.
+- [מסקרה בלי גושים: לעבוד מהשורש לקצה](https://harelos.github.io/museliora-magazine/articles/mascara-application-without-clumps/): רצף פשוט למריחת מסקרה ולשמירה על מוצר ומוליך נקיים, בלי הבטחות לנפח או לאורך.
+- [לקנות צבע שפתיים בלי לנחש מול המדף](https://harelos.github.io/museliora-magazine/articles/shopping-lip-colors-without-guessing/): מדריך מעשי להתנסות בגווני שפתיים בחנות ולהשוות בין צבע, מרקם ונוחות שימוש.
+- [להשוות תת־גוון במייקאפ באור אמיתי](https://harelos.github.io/museliora-magazine/articles/compare-foundation-undertones/): דרך שיטתית להשוות דוגמיות מייקאפ ולבחון גוון ותת־גוון לפני רכישה.
+- [תיק איפור קטן שעובד בשבילך](https://harelos.github.io/museliora-magazine/articles/minimal-makeup-bag-that-works/): שיטה פרקטית לצמצום תיק האיפור למוצרים שאת משתמשת בהם באמת, ולשמור אותו מסודר ונקי.
+- [לנקות מברשות איפור בלי להפוך את זה לפרויקט](https://harelos.github.io/museliora-magazine/articles/clean-makeup-brushes-without-fuss/): מדריך שימושי לניקוי וייבוש מברשות איפור, עם הוראות תחזוקה של יצרני הכלים והמלצות דרמטולוגיות כלליות.
+- [איפור עיניים שמסתדר עם המשקפיים שלך](https://harelos.github.io/museliora-magazine/articles/makeup-that-works-with-glasses/): רעיונות פרקטיים לאיפור עיניים עם משקפיים, בהתאמה למסגרת, למרחק העדשה ולהעדפה האישית.
+- [רענון איפור לערב בכמה דקות](https://harelos.github.io/museliora-magazine/articles/evening-makeup-touchup-in-minutes/): תכנית טאץ׳־אפ מעשית למעבר מיום לערב בלי להתחיל את כל האיפור מהתחלה.
+- [קוקו אסוף בלי התחושה המתוחה](https://harelos.github.io/museliora-magazine/articles/comfortable-low-ponytail/): דרך מעשית לבנות קוקו נמוך או בינוני שנראה מסודר, אבל משאיר לך מקום להתאים את מידת האיסוף לנוחות שלך.
+- [איפה למקם את הקוקו כדי לקבל את הצללית שאת אוהבת](https://harelos.github.io/museliora-magazine/articles/ponytail-placement-face-frame/): מדריך בחירה מעשי בין קוקו גבוה, בינוני ונמוך, עם התאמות לשביל, לשכבות ולאורך השיער.
+- [צעיף, קליפס או גומייה: אביזר אחד שמשנה את כל האיסוף](https://harelos.github.io/museliora-magazine/articles/hair-accessories-daily-routine/): שגרת אביזרים קצרה שמתחילה במטרה שלך ועוזרת להפוך קוקו או איסוף מהיר למראה מכוון יותר.
+- [תלתלים ביום רגיל: לעצב את הצורה בלי להילחם בה](https://harelos.github.io/museliora-magazine/articles/curly-hair-everyday-shape/): רעיונות מעשיים לשיער מתולתל או גלי, עם כמה אפשרויות לעיצוב בבית ובלי לנסות לכפות על כל התלתלים צורה אחת.
+- [כשהשורשים הלבנים נראים: ארבע דרכים לעצב את השיער סביבם](https://harelos.github.io/museliora-magazine/articles/grey-roots-style-between-visits/): רעיונות לשביל, נפח, אביזרים ואיסוף כששורשים לבנים בולטים לך במראה, בלי הבטחות כיסוי או שינוי צבע.
+- [איך להגיע למספרה עם רעיון ברור, בלי תיקיית השראה אינסופית](https://harelos.github.io/museliora-magazine/articles/salon-appointment-hair-prep/): הכנה מעשית לפגישת שיער שעוזרת לך ולמעצבת השיער לדבר על התוצאה הרצויה לפני שמתחילים.
+- [לפני שאת מדליקה את המחליק: תכנני את העיצוב בחמש דקות](https://harelos.github.io/museliora-magazine/articles/heat-tool-style-with-a-plan/): שגרת הכנה ממוקדת לעיצוב עם כלי חום, שנועדה לצמצם ניסוי וטעייה ולשמור על שליטה בכל שלב.
+- [ממגמת מסלול לתסרוקת של יום שלישי: כך מתאימים טרנד לשגרה](https://harelos.github.io/museliora-magazine/articles/2026-hair-trends-everyday-translation/): דרך לבחור פרט אחד מתוך מגמות השיער של 2026 ולתרגם אותו למראה יומיומי, בלי ציוד מיוחד או העתקה מלאה.
+- [השיער התעורר אחרת: שגרת רענון קצרה ליום שאחרי](https://harelos.github.io/museliora-magazine/articles/second-day-hair-reset/): תוכנית עדינה לסידור שיער ביום השני, עם התאמות לפי אזור, מרקם והזמן שעומד לרשותך.
+- [איזו תסרוקת לבחור הבוקר? שלוש שאלות שמקצרות את ההתלבטות](https://harelos.github.io/museliora-magazine/articles/quick-hairstyle-choice-guide/): מדריך בחירה קצר לשיער פזור, חצי אסוף או קוקו, עם התאמות לאורך, למרקם ולתוכניות שלך.
+- [ערב שמפנה מקום למנוחה](https://harelos.github.io/museliora-magazine/articles/sleep-friendly-evening-routine/): רעיונות פשוטים לבניית שגרת ערב נעימה בלי להפוך שינה לפרויקט ובלי להבטיח תוצאה אחידה.
+- [הפסקות מסך קטנות בתוך יום עמוס](https://harelos.github.io/museliora-magazine/articles/screen-breaks-workday/): שיטה מעשית לזכור לקום, להביט למרחק ולשנות תנוחה במהלך יום מול מסכים, בקצב שמתאים לעבודה שלך.
+- [הליכה שנכנסת ליום שכבר יש לך](https://harelos.github.io/museliora-magazine/articles/walking-routine-that-fits/): רעיונות לתכנון הליכות קצרות בתוך שגרה משתנה, עם דגש על נוחות, בטיחות והנאה מהדרך.
+- [הרגלי שתייה קטנים שמתאימים ליום שלך](https://harelos.github.io/museliora-magazine/articles/hydration-habits-without-rules/): דרכים פשוטות לזכור לשתות במהלך היום ולבחור נוזלים לפי ההעדפות והנסיבות שלך.
+- [ארוחת שולחן מסודרת גם ביום צפוף](https://harelos.github.io/museliora-magazine/articles/balanced-desk-meal/): רעיונות מעשיים לארוחת צהריים ליד שולחן העבודה, עם הכנה פשוטה והתאמה להעדפות שלך.
+- [לתפוס קצת אור יום בבוקר, בדרך שלך](https://harelos.github.io/museliora-magazine/articles/morning-daylight-routine/): אפשרויות פשוטות להוסיף זמן בחוץ או ליד חלון לשגרת הבוקר, עם התאמה למזג האוויר ולסדר היום.
+- [תנועה עדינה בתוך יום של ישיבה](https://harelos.github.io/museliora-magazine/articles/gentle-movement-break/): רעיונות לשלב תנועה קלה בין משימות, עם בחירה חופשית והתאמה למה שנוח לך.
+- [למצוא רגעי מנוחה בתוך נסיעה](https://harelos.github.io/museliora-magazine/articles/rest-on-a-trip/): רעיונות לתכנון הפוגות, שינה ונוחות במהלך נסיעה, בלי להפוך חופשה לרשימת משימות נוספת.
+- [לדאוג לעצמך בלי להוסיף קנייה לרשימה](https://harelos.github.io/museliora-magazine/articles/self-care-without-shopping/): רעיונות לטיפול יומיומי בעצמך שאינם תלויים במוצר חדש, בתקציב נוסף או בשגרה מושלמת.
+- [איך לבדוק מידע על בריאות לפני ששומרים או משתפים](https://harelos.github.io/museliora-magazine/articles/choose-reliable-health-information/): צ'קליסט קצר לקריאת כתבה או פוסט על בריאות, בלי לנסות לאבחן את עצמך ובלי להיבהל מכותרת.
+- [סטייל יומיומי ב־2026: לבנות הופעה מתוך החיים שלך](https://harelos.github.io/museliora-magazine/articles/everyday-style-2026/): מדריך מעשי לבחירת בסיס לבוש, צבע אחד מעניין ופרטים אישיים שמתאימים לשגרה שלך ב־2026.
+- [טקס בוקר אישי שלא דורש בוקר מושלם](https://harelos.github.io/museliora-magazine/articles/personal-morning-ritual/): דרך פשוטה ליצור רצף בוקר גמיש סביב אור, בגדים, חפצים והרגל אחד שעוזר לך להתאפס.
+- [תיק איפור קטן שמשרת את היום שלך](https://harelos.github.io/museliora-magazine/articles/capsule-beauty-bag/): מדריך לעריכת תיק איפור יומיומי קטן, נוח וברור, עם מקום לשינויי תוכנית ולמוצרים שאת באמת משתמשת בהם.
+- [פינת התארגנות בבית, גם בלי שולחן איפור](https://harelos.github.io/museliora-magazine/articles/accessible-home-vanity/): איך לארגן פינת התארגנות גמישה בבית בלי רהיט ייעודי ובלי להעמיס על החדר.
+- [מהשולחן לערב: רענון קטן בין חלקי היום](https://harelos.github.io/museliora-magazine/articles/desk-to-evening-routine/): רעיונות פרקטיים למעבר מיום עבודה או לימודים לתוכנית ערב בלי לארוז מחדש את כל הבית.
+- [תכנון מלתחה לשבוע בלי להכין שבע תלבושות](https://harelos.github.io/museliora-magazine/articles/everyday-wardrobe-planning/): שיטה קלה לתכנון לבוש שבועי שמחברת בין מזג האוויר, סדר היום והפריטים שכבר עובדים בארון.
+- [מלתחת בשמים אישית, בלי כללים נוקשים](https://harelos.github.io/museliora-magazine/articles/perfume-wardrobe-guide/): דרך שימושית לחשוב על כמה בשמים או ניחוחות שונים, לבדוק אותם ולשמור אותם נגישים בלי להפוך את הבחירה למסובכת.
+- [תאורה ביתית שעוזרת לראות איפור כמו שהוא](https://harelos.github.io/museliora-magazine/articles/makeup-home-lighting/): איך לבחור מקום ומקור אור לפינת איפור ביתית, ולהשוות את המראה בתנאים שבהם תצאי מהבית.
+- [לארוז לחופשה בלי לקחת את כל שגרת הבית](https://harelos.github.io/museliora-magazine/articles/travel-packing-beauty-style/): שיטה פשוטה לתכנון בגדים ותיק טיפוח לנסיעה קצרה או ארוכה, בלי להעמיס פריטים כפולים.
+- [פחות עומס במוצרי היופי, יותר קל למצוא את שלך](https://harelos.github.io/museliora-magazine/articles/reduce-beauty-clutter/): דרך הדרגתית למיין את מוצרי היופי וההתארגנות בבית בלי לזרוק באימפולסיביות ובלי לקנות ארגוניות חדשות.
+- [לבנות סגנון אישי בלי לחכות לאישור](https://harelos.github.io/museliora-magazine/articles/personal-style-without-approval/): מדריך מעשי ליצירת שפה אישית דרך פריטים, צבעים והרגלים שאת אוהבת, בלי להפוך את המראה למבחן של אחרים.
+- [לראיין את עצמך כקוראת יופי סקרנית](https://harelos.github.io/museliora-magazine/articles/beauty-reader-interview-guide/): לא כתבת תחקיר ולא דמות מומצאת: שאלות אישיות שיעזרו לך למיין העדפות, ספקות ומטרות בתחום היופי.
+- [רשימת בדיקה לפני קנייה של מוצר יופי](https://harelos.github.io/museliora-magazine/articles/beauty-shopping-decision-checklist/): מדריך קנייה שמבדיל בין מה שהמוצר מבטיח, מה שאפשר לבדוק ומה שחשוב לך בחיי היומיום.
+- [כשהתמונה ברשת הופכת למדד למראה שלך](https://harelos.github.io/museliora-magazine/articles/social-image-comparison-reset/): תרגיל קצר להתבוננות ביקורתית בתמונות יופי ברשת, בלי להאשים את עצמך ובלי להפוך מחקר לכלל גורף.
+- [להמציא מחדש את הסגנון כשהחיים משתנים](https://harelos.github.io/museliora-magazine/articles/style-after-life-changes/): מדריך גמיש לבניית הרגלי לבוש ויופי בתקופה של שינוי, בקצב שלך ובלי רשימת חוקים חדשה.
+- [להחזיר למראה את חדוות המשחק](https://harelos.github.io/museliora-magazine/articles/creative-hobby-beauty-play/): רעיונות לתרגול איפור, שיער ואביזרים כפעילות יצירתית פרטית, בלי לחץ לפרסם ובלי לקנות ערכה שלמה.
+- [להרגיש בנוח להציב גבול ליד דלפק היופי](https://harelos.github.io/museliora-magazine/articles/beauty-counter-boundaries/): מדריך לשיחה ברורה ומכבדת בחנות, כולל משפטים שימושיים כשאת רוצה לבדוק, לחשוב או לסרב.
+- [לקרוא פרסומת יופי בעיניים פקוחות](https://harelos.github.io/museliora-magazine/articles/read-beauty-advertising-critically/): כלים לקוראת שרוצה ליהנות מתוכן יופי ובו בזמן לבדוק את ההבטחות, התמונות והקשרים המסחריים.
+- [טקס תקציב קטן לקניות היופי שלך](https://harelos.github.io/museliora-magazine/articles/practical-beauty-budget-ritual/): שגרת בדיקה פשוטה שעוזרת לתכנן הוצאות יופי בלי אשמה, מספרים מומצאים או הבטחות לחיסכון.
+- [להרגיש בטוחה גם בלי מראה מושלם](https://harelos.github.io/museliora-magazine/articles/confidence-without-perfect-looks/): מדריך רך ומעשי לבחירת נקודת מיקוד אחת, לנוחות ולתנועה קדימה גם ביום שבו המראה אינו מרגיש מושלם.
+- [לדבר עם חברות על שיער בלי להפוך אותו לפרויקט](https://harelos.github.io/museliora-magazine/articles/talking-about-hair-with-friends/): מדריך לשיחה נעימה על שיער, שבה משתפים מה עבד לנו בלי לקבוע מה נכון לאחרות.
+- [להשאיר תגובה בונה על מראה של מישהי אחרת](https://harelos.github.io/museliora-magazine/articles/constructive-beauty-comments/): עקרונות פשוטים לתגובות שמכבדות בחירה אישית ולא הופכות את מדור התגובות לחדר מדידות.
+- [שאלות שכדאי לשאול לפני שקונים מוצר יופי](https://harelos.github.io/museliora-magazine/articles/questions-before-beauty-purchase/): מפת שאלות לקנייה מושכלת: מה המוצר, איך משתמשים בו, מה המחיר ומה עדיין לא ברור.
+- [לשתף טיפ יופי בלי להפוך אותו להבטחה](https://harelos.github.io/museliora-magazine/articles/share-beauty-tips-without-claims/): דרך מדויקת לשתף ניסיון אישי במראה, בשיער ובמוצרים בלי לטעון שהוא מתאים לכולן.
+- [לארגן החלפת מוצרי יופי באופן הוגן ונעים](https://harelos.github.io/museliora-magazine/articles/ethical-beauty-swap/): מדריך להחלפת פריטים בין חברות, עם גבולות ברורים סביב מצב המוצר, מידע ושיקול דעת אישי.
+- [לאסוף שאלות קוראות בלי להמציא תשובות בשם הקהילה](https://harelos.github.io/museliora-magazine/articles/collect-reader-beauty-questions/): מדריך למנהלת קבוצה או עורכת שרוצה להזמין שאלות יופי ולהגיב להן באופן מסודר ושקוף.
+- [לבחור יוצרות תוכן יופי באחריות](https://harelos.github.io/museliora-magazine/articles/choosing-responsible-beauty-influencers/): מדריך לקוראת שרוצה לעקוב אחרי יוצרות תוכן מתוך בחירה ולבדוק את ההמלצות שלהן באופן ענייני.
+- [להבין מתי תוכן יופי הוא גם תוכן ממומן](https://harelos.github.io/museliora-magazine/articles/understanding-paid-beauty-content/): מדריך קצר לזיהוי הקשר מסחרי בתוכן יופי ולהבנת ההבדל בין גילוי, המלצה והוכחה.
+- [לשתף תמונות קוראות בלי לפגוע בפרטיות](https://harelos.github.io/museliora-magazine/articles/reader-photo-ethics/): כללים שימושיים לבקשת תמונות, לשמירה ולפרסום של תוכן קהילתי באופן מכבד ושקוף.
+- [לבנות מועדון יופי שכיף לחזור אליו](https://harelos.github.io/museliora-magazine/articles/build-a-friendly-beauty-club/): מפת התחלה לקבוצה חברתית סביב טיפוח וסגנון, עם מקום לטעמים שונים ולשאלות פתוחות.

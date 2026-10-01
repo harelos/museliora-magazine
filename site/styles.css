@@ -14,3 +14,6 @@
 .share-buttons [data-share="facebook"]{background:#1769e0;border-color:#1769e0;color:#fff}
 .share-buttons [data-share="x"]{background:#111;border-color:#111;color:#fff}
 .offer{border-radius:8px}
+[hidden]{display:none!important}
+.comments-toggle{display:flex;align-items:center;justify-content:center;gap:7px;min-height:44px;margin:24px auto 0;padding:10px 24px;border:1px solid #c9aaa8;background:#fff6f5;color:#101010;cursor:pointer}
+.comments-toggle svg{width:19px;height:19px;color:#e11d48}
