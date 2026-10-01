@@ -17,3 +17,4 @@
 [hidden]{display:none!important}
 .comments-toggle{display:flex;align-items:center;justify-content:center;gap:7px;min-height:44px;margin:24px auto 0;padding:10px 24px;border:1px solid #c9aaa8;background:#fff6f5;color:#101010;cursor:pointer}
 .comments-toggle svg{width:19px;height:19px;color:#e11d48}
+.bunee-article .article-body{max-width:716px}
