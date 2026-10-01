@@ -1,0 +1,6 @@
+# MUSELIORA
+
+Hebrew editorial magazine about beauty, self and style.
+
+- https://harelos.github.io/museliora-magazine/editorial-policy/
+- https://harelos.github.io/museliora-magazine/privacy/

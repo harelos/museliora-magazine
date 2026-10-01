@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://harelos.github.io/museliora-magazine/sitemap.xml

@@ -1,0 +1,9 @@
+*
+!/.gitignore
+!/README.md
+!/site/
+!/site/**
+!/dist/
+!/dist/**
+!/.github/
+!/.github/**
